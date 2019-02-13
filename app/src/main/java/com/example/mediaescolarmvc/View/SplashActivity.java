@@ -1,7 +1,6 @@
 package com.example.mediaescolarmvc.View;
 
 import android.content.Intent;
-import android.net.wifi.rtt.RangingResultCallback;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
